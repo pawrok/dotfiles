@@ -1,0 +1,6 @@
+Set-Alias -Name ls -Value eza
+
+function ls3 { eza -R -T -L 3 }
+function ls2 { eza -R -T -L 2 }
+function ls1 { eza -R -T -L 1 }
+function lsa { eza -A }
