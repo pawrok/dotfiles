@@ -3,6 +3,7 @@
 - chocolatey
 - eza (need winget)
 - micro (need choco)
+- lf (ranger alternative, choco)
 
 Powershell:  
 ```
