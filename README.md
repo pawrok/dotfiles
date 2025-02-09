@@ -1,6 +1,11 @@
 # Usefull software:
+## Linux
+yazi - ranger alternative
+micro - nano alternative
+eza - ls alternative
+
 ## Windows:  
-- chocolatey
+- chocolatey - packet manager
 - eza (need winget)
 - micro (need choco)
 - lf (ranger alternative, choco)
