@@ -1,8 +1,8 @@
 # Usefull software:
 ## Linux
-yazi - ranger alternative
-micro - nano alternative
-eza - ls alternative
+yazi - ranger alternative  
+micro - nano alternative  
+eza - ls alternative  
 
 ## Windows:  
 - chocolatey - packet manager
